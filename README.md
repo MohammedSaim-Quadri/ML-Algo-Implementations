@@ -34,7 +34,7 @@ The repository includes well-documented Jupyter notebooks for each algorithm, ma
 ## Folder Structure
 
 The repository is organized into the following sections:
-
+```
 ML-Algo-Implementations/ 
 ├── Classification/ 
 │ ├── algorithm_1.ipynb 
@@ -53,6 +53,7 @@ ML-Algo-Implementations/
 │ ├── algorithm_2.ipynb 
 │ └── ... 
 ├── README.md
+```
 
 - **Classification**: Contains Jupyter notebooks for classification algorithms like Logistic Regression, Decision Trees, etc.
 - **Clustering**: Contains Jupyter notebooks for clustering algorithms like K-Means, DBSCAN, etc.
